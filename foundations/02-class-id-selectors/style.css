@@ -1,0 +1,19 @@
+
+.numersimpares {
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu, sans-serif;
+}
+
+#numero2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#numero4 {
+    background-color: rgb(88, 221, 88);
+    font: bold;
+}

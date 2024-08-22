@@ -1,0 +1,16 @@
+/* Below are some other possible descendant combinators:
+
+div p
+div .text
+.container p
+
+*/
+
+
+.container {
+    background-color: hwb(60 0% 0%);
+    color: hwb(0 0% 0%);
+    font-size: 20px;
+    text-align: center;
+}
+
